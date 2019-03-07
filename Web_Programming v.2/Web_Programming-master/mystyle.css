@@ -1,0 +1,11 @@
+body {
+  background-image: url("879800.jpg");
+}
+
+a {
+  color: #a3c3ff;
+}
+
+a:link {
+  background-color: black;
+}
